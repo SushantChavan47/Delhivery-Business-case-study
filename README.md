@@ -1,7 +1,7 @@
-# Delhivery Business case study
+#Delhivery Business case study
  Logistics Data Analysis
 
-Introduction
+Introduction:
 Delhivery, India's leading and rapidly growing integrated player, has set its sights on creating the commerce operating system. They achieve this by utilizing world-class infrastructure, ensuring the highest quality in logistics operations, and harnessing cutting-edge engineering and technology capabilities. The Data team builds intelligence and capabilities using this data that helps them to widen the gap between the quality, efficiency, and profitability of their business versus their competitors.
 
 Problem Statement:
@@ -11,7 +11,7 @@ Delhivery, India's leading logistics provider, aims to leverage its vast data in
 This analysis is expected to improve the company's quality, efficiency, and profitability through data-driven decision-making.
 
 
-#Insights
+#Insights:
 --> The most common route type is Carting.
 --> The top 3 source and destination states are Maharastra, Karnataka and Haryana.
 --> The top 3 source and destination cities are Bengaluru, Mumbai and Gurgaon.
@@ -22,7 +22,7 @@ This analysis is expected to improve the company's quality, efficiency, and prof
 --> Aggregated osrm_distance and aggregated segment_osrm_distance are similar.
 --> Aggregated osrm_time and aggregated segment_osrm_time are similar.
 
-#Business Recommendations
+#Business Recommendations:
 --> Optimize resources for busiest corridors:
     While most packages are sent and received within Bengaluru, Mumbai and Hyderabad and the busiest corridor is Bhiwandi-Mumbai. So based on this, Delhivery should allocate additional resources such as warehouse, vehicles and manpower to manage the high shipment volume in this corridor more effectively.
 
